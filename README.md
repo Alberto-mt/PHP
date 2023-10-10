@@ -6,7 +6,7 @@
 [![AJAX](https://img.shields.io/badge/AJAX-005A9C?style=for-the-badge&logo=W3C&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP)
 
 ### Apuntes, ejercicios y proyectos
- - PHP 7
+ - PHP
  - Mysql
  - RegEx
  - Api-server
