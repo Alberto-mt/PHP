@@ -51,6 +51,7 @@ echo $semana[6] . '<br />';
 | **array_pop()**  | Elimina y devuelve el último elemento de un array  |
 | **array_merge()**  | Combina dos o más arrays en una sola matriz  |
 | **array_search()**  | Busca en un array un valor específico y devuelve la clave correspondiente si la encuentra  |
+| **empty($array)**  | Para comprobar si una matriz está vacía  |
 
 
 [![PHP](https://img.shields.io/badge/Arrays-c08a44?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Arrays.md)
