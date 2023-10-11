@@ -4,9 +4,9 @@
 ### Categories
 [![PHP](https://img.shields.io/badge/Variables-447ac0?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Variables.md)
 
-[![PHP](https://img.shields.io/badge/Constantes-c044b8?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/Constantes-c044b8?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Constantes.md)
 
-[![PHP](https://img.shields.io/badge/Arrays-c08a44?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/Arrays-c08a44?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Arrays.md)
 
 [![PHP](https://img.shields.io/badge/Arrays_asociativos-44c04c?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 
