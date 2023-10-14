@@ -18,5 +18,13 @@
 
 [![PHP](https://img.shields.io/badge/Ordenar_array-44c04c?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Ordenar_array.md)
 
+[![PHP](https://img.shields.io/badge/Condicional_if_else-447ac0?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Condicional_if_else.md)
+
+[![PHP](https://img.shields.io/badge/Condicional_switch-c044b8?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+
+[![PHP](https://img.shields.io/badge/Bucle_for-c08a44?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+
+[![PHP](https://img.shields.io/badge/Bucle_while-44c04c?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+
 
 [![PHP](https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/index.md)
