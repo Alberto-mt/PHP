@@ -56,4 +56,40 @@ $meses = array(
 </html>
 ```
 
+#### Ejemplo de foreach con array asociativo en php 
+```php
+<?php 
+$alumno = array('nombre' => 'Pepe', 'apellido' => 'Martinez', 'clase' => 'DAW');
+
+// Recorrer array con foreach
+foreach($alumno as $dato => $valor){
+	echo '<li>' . $dato . ' : ' . $valor . '</li>';
+}
+?>
+```
+
+#### Ejemplo de foreach con array asociativo dentro de html
+```html
+<?php 
+$alumno = array('nombre' => 'Pepe', 'apellido' => 'Martinez', 'clase' => 'DAW');
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Forech asociativo</title>
+</head>
+<body>
+	<h1>Recorrer array asociativo con Foreach</h1>
+	<ol>
+		<!-- Recorrer array con foreach -->
+		<?php foreach($alumno as $dato => $valor): ?>
+    			<li><?= $dato . ' : ' . $valor ?></li>
+		<?php endforeach; ?>	
+	</ol>
+</body>
+</html>
+```
+
 [![PHP](https://img.shields.io/badge/Recorrer_array_Foreach-c08a44?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Recorrer_array_foreach.md)
