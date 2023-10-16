@@ -12,7 +12,7 @@
     // Código que se ejecuta
 // }
 
-for($i = 0 ; $i <= 100 ; $i = $i + 5 ){
+for($i = 0 ; $i <= 100 ; $i += 5 ){
 	echo $i . "<br />";
 }
 ?>
