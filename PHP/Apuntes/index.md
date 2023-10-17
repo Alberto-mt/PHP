@@ -28,7 +28,7 @@
 
 [![PHP](https://img.shields.io/badge/Bucle_do_while-447ac0?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Bucle_do_while.md)
 
-[![PHP](https://img.shields.io/badge/Break_y_continue-c044b8?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/Break_y_continue-c044b8?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Break_y_continue.md)
 
 [![PHP](https://img.shields.io/badge/Funcion_var_dump-c08a44?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 
