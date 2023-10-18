@@ -1,7 +1,7 @@
 ## PHP
 [![PHP](https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/index.md)
 
-### Funcion_print_r
+### Función print_r
 [![PHP](https://img.shields.io/badge/Funcion_print_r-44c04c?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Funcion_print_r.md)
 
 #### print_r()
