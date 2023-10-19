@@ -36,7 +36,7 @@
 
 [![PHP](https://img.shields.io/badge/Funcion_extract-447ac0?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Funcion_extract.md)
 
-[![PHP](https://img.shields.io/badge/Funciones-c044b8?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/Funciones-c044b8?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Funciones.md)
 
 [![PHP](https://img.shields.io/badge/Funciones_de_String-c08a44?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 
