@@ -40,7 +40,7 @@
 
 [![PHP](https://img.shields.io/badge/Funciones_de_String-c08a44?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Funciones_de_String.md)
 
-[![PHP](https://img.shields.io/badge/Funciones_de_array-44c04c?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/Funciones_de_array-44c04c?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Funciones_de_array.md)
 
 
 [![PHP](https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/index.md)
