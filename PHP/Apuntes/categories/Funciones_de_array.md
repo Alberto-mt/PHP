@@ -35,12 +35,16 @@ $semana2 = array(
 	'L', 'M', 'X','J', 'V', 'S', 'D'
 );
 
+$numeros = array(
+	1,2,3,4,1,2,6,7,2,3,8,9
+);
+
 echo 'array_pop($semana)<br>';
 echo array_pop($semana);
 echo '<br><br>';
 
 echo 'array_push($semana, "Domingo")<br>';
-print_r($semana). '<br>';
+print_r($semana) . '<br>';
 echo array_push($semana, "Domingo"). '<br>';
 print_r($semana);
 echo '<br><br>';
@@ -50,8 +54,49 @@ $semana2 = array_replace($semana2, $semana);
 print_r($semana2);
 echo '<br><br>';
 
-echo 'array_reverse($semana )<br>';
+echo 'array_reverse($semana)<br>';
 print_r(array_reverse($semana));
+echo '<br><br>';
+
+echo 'array_search("Lunes", $semana)<br>';
+print_r(array_search("Lunes", $semana));
+echo '<br><br>';
+
+echo 'array_shift($semana)<br>';
+echo array_shift($semana);
+echo '<br><br>';
+
+echo 'array_unshift($semana, "Lunes")<br>';
+print_r($semana) . '<br>';
+echo array_unshift($semana, "Lunes"). '<br>';
+print_r($semana);
+echo '<br><br>';
+
+echo 'array_splice($semana2, 2)<br>';
+print_r($semana2);
+echo '<br>';
+array_splice($semana2, 2);
+print_r($semana2);
+echo '<br><br>';
+
+echo 'array_unique($numeros)<br>';
+print_r($numeros);
+echo '<br>';
+print_r(array_unique($numeros));
+echo '<br><br>';
+
+echo 'count($semana)<br>';
+echo count($semana);
+echo '<br><br>';
+
+echo 'rsort($numeros)<br>';
+rsort($numeros);
+print_r($numeros);
+echo '<br><br>';
+
+echo 'sort($numeros)<br>';
+sort($numeros);
+print_r($numeros);
 echo '<br><br>';
 ?>
 ```
