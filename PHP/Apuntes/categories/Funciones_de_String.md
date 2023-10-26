@@ -4,7 +4,7 @@
 ### Funciones de string
 [![PHP](https://img.shields.io/badge/Funciones_de_String-c08a44?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Funciones_de_String.md)
 
-#### Listado de completo de String Functions
+#### Listado completo de String Functions
 [PHP - String Functions](https://www.php.net/manual/en/ref.strings.php)
 
 #### Funciones más usadas
