@@ -23,7 +23,7 @@
 | **rsort()**  | Ordena un array en orden inverso  |
 | **sort ()**  | Ordena un array  |
 
-#### Ejemplo de funciones de cadenas
+#### Ejemplo de funciones de array
 ```php
 <?php
 $semana = array(
