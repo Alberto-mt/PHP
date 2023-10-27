@@ -46,7 +46,7 @@
 
 [![PHP](https://img.shields.io/badge/Scope-c044b8?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Scope.md)
 
-[![PHP](https://img.shields.io/badge/Include_y_require-c08a44?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/Include_y_require-c08a44?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Include_y_require.md)
 
 [![PHP](https://img.shields.io/badge/Funcion_die-44c04c?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 
