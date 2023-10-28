@@ -11,9 +11,10 @@ La declaración declare(strict_types=1) en PHP se utiliza para habilitar el modo
 ```php
 <?php
 declare(strict_types=1);
+
 function getEdad() : int{
 	// Error: ya que debe devolver un número entero
-	$edad = "30";
+	// $edad = "30";
 
 	// Correcto: devuelve un número entero
 	$edad = 30;
