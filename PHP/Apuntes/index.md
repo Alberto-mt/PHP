@@ -54,7 +54,7 @@
 
 [![PHP](https://img.shields.io/badge/Declaraciones_tipo_escalar-c044b8?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Declaraciones_tipo_escalar.md)
 
-[![PHP](https://img.shields.io/badge/Operador_fusion_null-c08a44?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/Operador_fusion_null-c08a44?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Operador_fusion_null.md)
 
 [![PHP](https://img.shields.io/badge/Php_info-44c04c?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Php_info.md)
 
