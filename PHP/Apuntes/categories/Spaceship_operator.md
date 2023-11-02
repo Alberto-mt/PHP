@@ -1,8 +1,8 @@
 ## PHP
 [![PHP](https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/index.md)
 
-### Spaceship operator
-[![PHP](https://img.shields.io/badge/Spaceship_operator-447ac0?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Spaceship_operator.md)
+### PHP 7 - Spaceship operator
+[![PHP](https://img.shields.io/badge/PHP7_Spaceship_operator-447ac0?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Spaceship_operator.md)
 
 #### Spaceship operator (<=>)
 Es un operador de comparación de tres vías que se puede utilizar para comparar dos expresiones. Devuelve -1, 0 o 1 según la relación entre las dos expresiones.
@@ -51,4 +51,4 @@ echo implode(' - ', $array);
 ?>
 ```
 
-[![PHP](https://img.shields.io/badge/Spaceship_operator-447ac0?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Spaceship_operator.md)
+[![PHP](https://img.shields.io/badge/PHP7_Spaceship_operator-447ac0?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Spaceship_operator.md)
