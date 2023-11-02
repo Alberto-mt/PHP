@@ -50,14 +50,14 @@
 
 [![PHP](https://img.shields.io/badge/Funcion_die-44c04c?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Funcion_die.md)
 
-[![PHP](https://img.shields.io/badge/Declaraciones_tipo_devolucion-447ac0?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Declaraciones_tipo_devolucion.md)
+[![PHP](https://img.shields.io/badge/PHP7_Declaraciones_tipo_devolucion-447ac0?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Declaraciones_tipo_devolucion.md)
 
-[![PHP](https://img.shields.io/badge/Declaraciones_tipo_escalar-c044b8?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Declaraciones_tipo_escalar.md)
+[![PHP](https://img.shields.io/badge/PHP7_Declaraciones_tipo_escalar-c044b8?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Declaraciones_tipo_escalar.md)
 
-[![PHP](https://img.shields.io/badge/Operador_fusion_null-c08a44?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Operador_fusion_null.md)
+[![PHP](https://img.shields.io/badge/PHP7_Operador_fusion_null-c08a44?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Operador_fusion_null.md)
 
-[![PHP](https://img.shields.io/badge/Php_info-44c04c?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Php_info.md)
+[![PHP](https://img.shields.io/badge/PHP7_Php_info-44c04c?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Php_info.md)
 
-[![PHP](https://img.shields.io/badge/Spaceship_operator-447ac0?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Spaceship_operator.md)
+[![PHP](https://img.shields.io/badge/PHP7_Spaceship_operator-447ac0?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Spaceship_operator.md)
 
 [![PHP](https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/index.md)
