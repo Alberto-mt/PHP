@@ -1,8 +1,8 @@
 ## PHP
 [![PHP](https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/index.md)
 
-### Operador de fusión null
-[![PHP](https://img.shields.io/badge/Operador_fusion_null-c08a44?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Operador_fusion_null.md)
+### PHP 7 - Operador de fusión null
+[![PHP](https://img.shields.io/badge/PHP7_Operador_fusion_null-c08a44?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Operador_fusion_null.md)
 
 #### Operador de fusión null(??)
 Este operador se representa con dos signos de interrogación (??) y se utiliza para devolver el primer valor que no sea nulo de una serie de operandos.
@@ -35,4 +35,4 @@ echo $rol;
 ?>
 ```
 
-[![PHP](https://img.shields.io/badge/Operador_fusion_null-c08a44?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Operador_fusion_null.md)
+[![PHP](https://img.shields.io/badge/PHP7_Operador_fusion_null-c08a44?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/PHP/blob/main/PHP/Apuntes/categories/Operador_fusion_null.md)
