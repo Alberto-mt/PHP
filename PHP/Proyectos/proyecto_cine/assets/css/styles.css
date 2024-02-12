@@ -1,0 +1,161 @@
+/**
+    Generales
+ */
+.row{
+    padding-top: 20px;
+}
+
+/**
+    Generales
+ */
+
+header{
+    margin-bottom: 20px;
+    padding: 20px 0px;
+    border-bottom: 2px solid lightgray;
+}
+
+/**
+    InicioAsideView
+ */
+.info{
+    margin-top: 30px;
+    padding: 10px;
+    background-color: darkred;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+
+/**
+    InicioDetallesView
+ */
+#tituloDetalles{
+    font-size: 50px !important;
+}
+
+.descripcionDetalles td img{
+    max-width: 285px;
+    max-height: 420px;
+}
+
+.descripcionDetalles{
+    font-size: 18px !important;
+    font-weight: bold;
+}
+
+.subTituloDetalles{
+    font-weight: bold;
+    color: dodgerblue;
+}
+
+.contenidoDetalles{
+    padding-left: 30px;
+}
+
+/**
+    AsideMainButacasView
+ */
+
+#carrito{
+    margin-bottom: 20px;
+}
+
+.formBotonesMargin{
+    margin: 20px 0px
+}
+
+#carrito label{
+    width: 100%;
+}
+
+.libre{
+    background-color: white;
+}
+
+.ocupada{
+    background-color: red;
+}
+
+.seleccionada{
+    background-color: lawngreen;
+}
+
+/**
+    ReservaLocalidadesView
+ */
+
+.datosCompra{
+    width: 100% !important;
+}
+
+.mr{
+    margin-right: 10px;
+}
+
+.nota{
+    font-style: italic;
+    color: darkred;
+}
+
+/**
+    PagoOkView
+ */
+
+.pagoExito h2{
+    color: dodgerblue;
+}
+
+.pagoExito h3{
+    border: 2px solid dodgerblue;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 30px 0px;
+}
+
+.pagoExito h5{
+    margin-bottom: 30px;
+    font-style: italic;
+    color: darkred;
+}
+
+.pagoExito a{
+    width: 100px;
+    margin: 0 auto;
+}
+
+/**
+    Pago Error
+ */
+
+.pagoError h2{
+    color: darkred;
+}
+
+.pagoError h3{
+    border: 2px solid dodgerblue;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 30px 0px;
+}
+
+.pagoError h5{
+    margin-bottom: 30px;
+    font-style: italic;
+    color: darkred;
+}
+
+.pagoError a{
+    width: 100px;
+    margin: 0 auto;
+}
+
+/**
+    Footer
+ */
+
+footer{
+    margin-top: 20px;
+    padding: 30px 0px;
+    border-top: 2px solid lightgray;
+}
