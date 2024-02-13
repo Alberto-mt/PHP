@@ -6,7 +6,7 @@
 RewriteEngine on
 
 # Error al no encontrar la página
-ErrorDocument 404 http://localhost/php/tienda-online/error/index
+ErrorDocument 404 http://localhost/php/proyecto-tienda-online/error/index
 
 # Para no poder cargar undirectorio o archivo cualquiera en la url
 # solo puedo reeescribir urls
