@@ -19,7 +19,7 @@ define("CHARSET","utf8");
  *  - CONTROLLER_DEFAULT    - controlador por defecto
  *  - ACTION_DEFAULT        - acción por defecto
  */
-define("BASE_URL", "http://localhost/php/tienda-online/");
+define("BASE_URL", "http://localhost/php/proyecto-tienda-online/");
 define("BASE_URL_SCRIPT", '<script type="text/javascript">window.location ="'.BASE_URL.'";</script>');
 define("CONTROLLER_DEFAULT", "ProductoController");
 define("ACTION_DEFAULT", "index");
